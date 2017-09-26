@@ -16,7 +16,7 @@ public class ReclamationProject {
     /**
     * @param a It's just a string.
     * @param b It's just another string.
-    * @return I don't know what it is returning.
+    * @return I don't know what it's returning.
     */
     static String doit(final String a, final String b) {
 
